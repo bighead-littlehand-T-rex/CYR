@@ -1,0 +1,8 @@
+pandas==1.4.2
+faiss-cpu
+numpy==1.22.4
+random
+sentence_transformers==2.2.2
+heapq
+streamlit
+time
